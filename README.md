@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 There is one R script called run_analysis.R that does the following:
 ## Downloading the data
-The raw data (as found in the link http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) is downloaded within to a directory called "Project directory". Relevant data is then extracted from the raw data. This includes:
+The raw data (as found in the link http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) is downloaded to a directory called "Project directory". Relevant data is then extracted from the raw data. This includes:
 1. Feature names for the raw data; labels for the activities undertaken
 2. Test data: the set of accelerometer data in the test set, the labels for that data, and the subjects who were included in the test data
 3. Training data: the set of accelerometer data in the training set, the labels for that data, and the subjects who were included in the training data
