@@ -10,7 +10,7 @@ The raw data (as found in the link http://archive.ics.uci.edu/ml/datasets/Human+
 The raw test data and raw training data was merged
 
 ## Extracts only the measurements on the mean and standard deviation for each measurement
-Measurements were only included if they had the name Mean() or Std() in their title (with or without capitalization)
+Measurements were only included if they had the name "Mean()" or "Std()" in their title (with or without capitalization)
 
 ## Uses descriptive activity names to name the activities in the data set
 The measurments were labelled according to their label provided in the raw dataset. The descriptive columns which specfied which subjects were undertaking each measurement, and the activity they were doing at the time was added to the data to provide relevant labels.
