@@ -20,4 +20,4 @@ The final data was labelled with the names "subjects" and "activity" for the col
 
 ## From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 The reshape2 package was used. The data was melted into a long, but narrow dataset. Finally, the data was transformed into a tidy dataset organised such that the first column shows which volunteer was undertaking the activites, and the second column shows the activity they were undertaking, and the remainder of the columns show the corresponding means for the relevant variables previously selected. 
-## A file is created in the working directory called "tidied_data.txt"
+A file is created in the working directory called "tidied_data.txt"
