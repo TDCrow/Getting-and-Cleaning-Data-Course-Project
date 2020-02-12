@@ -13,7 +13,7 @@ The raw test data and raw training data was merged.
 Measurements were only included if they had the name "Mean()" or "Std()" in their title (with or without capitalization).
 
 ## Uses descriptive activity names to name the activities in the data set
-The measurements were labelled according to their label provided in the raw dataset. The descriptive columns which specfied which subjects were undertaking each measurement, and the activity they were doing at the time was added to the data to provide relevant labels.
+The measurements were labelled according to their label provided in the raw dataset. The descriptive columns which specfied which subjects were undertaking each measurement and the activity they were doing at the time was added to the data to provide relevant labels.
 
 ## Appropriately labels the data set with descriptive variable names
 The final data was labelled with the names "subjects" and "activity" for the columns which showed which participants had undertaken which activity, and the accelerometer-specific data was labelled according to the label set from the raw data.
